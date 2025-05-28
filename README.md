@@ -1,4 +1,4 @@
-# translation_agent
+# product_planning_agent 
 
 A LangGraph agent built to create a write-up of some product analysis of a given product idea.
 
